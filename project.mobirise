@@ -38,7 +38,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/asset-44x-128x81.png",
     "noImageResize": "",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -2279,6 +2279,44 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b style=\"font-size: 1.09rem;\">Quick Overview</b></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">1. Learn how and why the Blockchain will transform any busines</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">2. Understand use-cases and benefits: Blockchain for Supply Chains, FinTech, Tokens and IoT</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">3. Learn the latest in Architecture, Development and Deployment of Smart Contracts on Ethereum</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">4. Understand and work with Public and Private Permissioned Blockchains&nbsp;</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">5. Use, configure and apply the IMPAKT-Stack, the future of Enterprise Tooling</span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">6. Become ThinkingAssets Certified</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rlxOgjgo9Y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1g"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Join the Fast-Lane 4-Day Blockchain Developer Training.\n</b></p><p>\n<span style=\"font-size: 1rem;\">In this 3+1 days instructor-led training program you will deep dive into the Blockchain and Ethereum Ecosystem. Learn how Blockchain Technologies help you to <b>improve business efficiencies</b>, can generate <b>service differentiation</b> or help with <b>cost reduction</b>. &nbsp;</span></p><p>The course is designed by industry experts for those who seek an <b>applied and fundamental understanding</b> of the Blockchain Landscape and the Ethereum Ecosystem. The <b>comprehensive curriculum</b> consists of over 20 labs and projects at which students will gain practical experience with the tooling and workflows from A-Z.</p><p><b>Students will gain deep knowledge of the Ethereum Ecosystem, Solidity, Ganache, Geth, Blockchain Architecture, Truffle, Web3js and many more. \n</b></p><p>The course finishes with a final project which ultimately applies the understanding of the Blockchain and Ethereum Ecosystem. Students will be provided feedback on the project and you will become a ThinkingAssets Certified Ethereum Developers.</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rlxOBz9RVT",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-1h"
         },
         {
           "alias": false,
