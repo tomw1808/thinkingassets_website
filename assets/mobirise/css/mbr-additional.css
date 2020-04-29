@@ -1435,6 +1435,46 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rXwTMzVlLP {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rXwTMzVlLP .card-box {
+  padding: 0 2rem;
+}
+.cid-rXwTMzVlLP .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rXwTMzVlLP .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rXwTMzVlLP h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rXwTMzVlLP p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rXwTMzVlLP .mbr-text {
+  color: #767676;
+}
+.cid-rXwTMzVlLP .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rXwTMzVlLP .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
 .cid-rXwByTNyCl {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1559,53 +1599,6 @@ body {
   .cid-rXwEzik86B .inner-container {
     width: 100% !important;
   }
-}
-.cid-rXwADsuoYo {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rXwADsuoYo h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rXwADsuoYo p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rXwADsuoYo .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rXwADsuoYo .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rXwADsuoYo .mbr-text {
-  color: #767676;
-}
-.cid-rXwADsuoYo .card-wrapper {
-  height: 100%;
-  background: #efefef;
-}
-@media (max-width: 767px) {
-  .cid-rXwADsuoYo .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rXwADsuoYo H2 {
-  text-align: center;
-}
-.cid-rXwADsuoYo .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-rXwADsuoYo .card-title {
-  text-align: center;
-}
-.cid-rXwADsuoYo .mbr-text,
-.cid-rXwADsuoYo .mbr-section-btn {
-  text-align: center;
 }
 .cid-rXwDLQxuPx {
   padding-top: 60px;
